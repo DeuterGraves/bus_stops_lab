@@ -30,6 +30,10 @@ class Bus
     end
   end
 
-  
+  def drops_off_all_passengers()
+    @passengers = []
+  end
+
+
   #end class
 end
